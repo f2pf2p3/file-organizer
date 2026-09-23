@@ -1,0 +1,10 @@
+# Folder name = file extensions
+# Separate multiple extensions with commas
+
+img=jpg,jpeg,png,gif,webp,bmp
+pdf=pdf
+python=py
+video=mp4,mkv,avi,mov
+document=doc,docx,txt
+archive=zip,rar,7z
+exe=exe
