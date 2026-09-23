@@ -558,5 +558,5 @@ This project is for educational and personal use.
 
 Application icon:
 [Automatic icon](https://www.flaticon.com/free-icon/automatic_8101857)
-designed by [Author Name](https://www.flaticon.com/)
+designed by [Shahid-Mehmood](https://www.flaticon.com/authors/shahid-mehmood)
 from [Flaticon](https://www.flaticon.com/)
